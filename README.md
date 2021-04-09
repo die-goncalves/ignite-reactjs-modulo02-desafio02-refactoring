@@ -42,7 +42,7 @@ A aplicação utilizava JavaScript e componentes em classes como pode ser visto 
 2. Instalar as depêndencias:
 ```sh
   # Entre no diretório do repositório clonado
-  $ cd https://github.com/die-goncalves/ignite-reactjs-modulo02-desafio02-refactoring
+  $ cd ignite-reactjs-modulo02-desafio02-refactoring
   # Instale as dependências do projeto.
   $ yarn #ou $ npm install
 ```
